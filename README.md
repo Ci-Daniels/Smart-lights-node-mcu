@@ -7,6 +7,7 @@ The need for safe health practices such as using sanitizers after using public a
 ### SYSTEM COMPONENTS
 -ESP 8266 NODEMCU
 -IR sensor
+-Ultrasonic sensor
 -Photocell
 -Green Led
 -10K and 220 ohm resistors
@@ -36,3 +37,10 @@ The need for safe health practices such as using sanitizers after using public a
    -Max current: 20mA.
    -Suggested using current: 16-18mA.
    -Luminous Intensity: 150-200mcd.
+   
+ ### HC-SRO4 Ultrasonic sensor
+   -Working Voltage: DC 5V
+   -Working Current: 15mA
+   -Working Frequency: 40Hz
+   -Min Range: 2cm, Max Range: 4m
+   -Measuring Angle: 15°.
